@@ -5,12 +5,12 @@
 ---
 
 ## 🚀 Features
-- 🖱️ **User-friendly UI** with sliders or number inputs
-- 🍇 **Wine dataset** (from sklearn)
-- 📊 **Prediction probabilities** and confidence
-- 🌟 **Feature importances** visualization
-- 🧭 **Sidebar** with dataset info and controls
-- 💎 **Responsive layout** with emojis and modern Streamlit widgets
+- 🖱️ User-friendly UI with sliders or number inputs
+- 🍇 Wine dataset (from sklearn)
+- 📊 Prediction probabilities and confidence
+- 🌟 Feature importances visualization
+- 🧭 Sidebar with dataset info and controls
+- 💎 Responsive layout with emojis and modern Streamlit widgets
 
 ---
 
@@ -38,16 +38,16 @@
 
 ## 🖥️ Screenshots
 
-Add screenshots of your app in the `images/` folder and reference them below:
+Below are screenshots of the app in action:
 
-```markdown
-![Wine Class Predictor UI](images/screenshot1.png)
-![Prediction Example](images/screenshot2.png)
-```
+### 📝 Input Form
+![Input Form](images/input_form.png.png)
 
-Example:
+### 🔮 Prediction Example 1
+![Prediction Result 1](images/predictions_results1.png.png)
 
-![Wine Class Predictor UI](images/screenshot1.png)
+### 🔮 Prediction Example 2
+![Prediction Result 2](images/predictions_results2.png.png)
 
 ---
 
@@ -56,6 +56,7 @@ Example:
 - `model_train.py` — Model training script
 - `wine_model.pkl` — Trained model (auto-generated)
 - `requirements.txt` — Python dependencies
+- `images/` — App screenshots
 
 ---
 
