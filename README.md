@@ -41,13 +41,13 @@
 Below are screenshots of the app in action:
 
 ### 📝 Input Form
-![Input Form](images/input_form.png.png)
+![Input Form](input_form.png.png)
 
 ### 🔮 Prediction Example 1
-![Prediction Result 1](images/predictions_results1.png.png)
+![Prediction Result 1](predictions_results1.png.png)
 
 ### 🔮 Prediction Example 2
-![Prediction Result 2](images/predictions_results2.png.png)
+![Prediction Result 2](predictions_results2.png.png)
 
 ---
 
